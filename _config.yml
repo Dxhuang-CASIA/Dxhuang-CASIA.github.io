@@ -1,9 +1,12 @@
 # Basic Information
 url: "waha.github.io "
-title: Dexing Huang (黄德兴)
+title: Dexing Huang
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: Institute of Automation, CAS
+affiliation_link: http://english.ia.cas.cn/
+email: huangdexing2022@ia.ac.cn
+address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
+address: 95 Zhongguancun East Road, Beijing, 100190
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -13,11 +16,8 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=01Pcm-AAAAAJ&hl=en
+github_link: https://github.com/Dxhuang-CASIA
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
