@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [the National Key Laboratory for Multi-modal Artificial Intelligence Systems](http://mais.ia.ac.cn/), [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/).
+I am currently a second-year Ph.D. student at the Medical Robotics Lab, [State Key Laboratory of Multimodal Artificial Intelligence Systems](http://mais.ia.ac.cn/), [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/).
 
 ## Research Interests
 
