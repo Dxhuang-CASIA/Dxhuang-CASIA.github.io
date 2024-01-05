@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at [the National Key Laboratory for Multi-modal Artificial Intelligence Systems](http://mais.ia.ac.cn/), [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Medical Image Processing:** 2D/3D registration, image segmentation, landmark localization
+- **Medical Robotics:** image-guided navigation systems
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** My paper is accepted by T-ASE.
+- **[Oct. 2022]** My paper is accepted by ROBIO 2022.
 
 {% include_relative _includes/publications.md %}
 
