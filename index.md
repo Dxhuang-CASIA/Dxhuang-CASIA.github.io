@@ -18,4 +18,8 @@ I am a Ph.D. student at [the National Key Laboratory for Multi-modal Artificial 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Awards
+
+- **Outstanding Graduate** of Beijing University of Posts and Telecommunications 2022
+- **School First Class Scholarship** (<3%) in Beijing University of Posts and Telecommunications 2021
+- **School Second Class Scholarship** (<10%) in Beijing University of Posts and Telecommunications 2019, 2020
