@@ -78,7 +78,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10249496">Highly interpretable representation for multi-dimensional tactile perception</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10249496">Design and construction of a spherical magnet array for multi-dimensional tactile perception</a></div>
     <div class="author">Mei-Jiang Gui, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Hao Li, Tian-Yu Xiang, <strong>De-Xing Huang</strong>, Bo-Xian Yao, and Zeng-Guang Hou*</div>
     <div class="periodical"><em>Proceedings of the 2023 IEEE International Conference on Real-time Computing and Robotics<strong>(RCAR)</strong>, Sept. 2023.</em></div>
     <div class="links">
