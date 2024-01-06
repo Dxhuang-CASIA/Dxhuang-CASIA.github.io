@@ -8,7 +8,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/T-ASE2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TASE</abbr>
+    <abbr class="badge">IEEE TASE</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -31,7 +31,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ROBIO2022.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ROBIO</abbr>
+    <abbr class="badge">IEEE ROBIO</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -41,6 +41,27 @@
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10011812" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">(EI)</i></strong>
+    </div>
+  </div>
+
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/T-MRB2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE TMRB</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10381648">Highly interpretable representation for multi-dimensional tactile perception</a></div>
+    <div class="author">Mei-Jiang Gui, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Hao Li, Tian-Yu Xiang, <strong>De-Xing Huang</strong>, Bo-Xian Yao, Yong-Gen Ling, and Zeng-Guang Hou*</div>
+    <div class="periodical"><em>IEEE Transactions on Medical Robotics and Bionics<strong>(TMRB)</strong>, Jan. 2024.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10381648" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">(IF:3.700)</i></strong>
     </div>
   </div>
 
