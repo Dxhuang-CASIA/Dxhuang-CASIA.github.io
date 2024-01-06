@@ -40,7 +40,6 @@
     <div class="periodical"><em>Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics<strong>(ROBIO)</strong>, Dec. 2022.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10011812" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">(EI)</i></strong>
     </div>
   </div>
 
