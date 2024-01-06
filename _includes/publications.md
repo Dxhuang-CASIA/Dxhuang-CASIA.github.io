@@ -123,12 +123,33 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-981-99-8184-7_3">Effective skill learning on vascular robotic systems: Combining offline and online reinforcement learning
-</a></div>
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-981-99-8184-7_3">Effective skill learning on vascular robotic systems: Combining offline and online reinforcement learning</a></div>
     <div class="author">Li Hao, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Mei-Jiang Gui, Tian-Yu Xiang, <strong>De-Xing Huang</strong>, and Zeng-Guang Hou*</div>
     <div class="periodical"><em>Proceedings of the 2023 International Conference on Neural Information Processing<strong>(ICONIP)</strong>, Nov. 2023.</em></div>
     <div class="links">
       <a href="https://link.springer.com/chapter/10.1007/978-981-99-8184-7_3" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+
+</div>
+</li>
+  
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ICBIR2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICBIR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1877050923017957">MEDIA-Net: Multi-scale feature extraction and depthwise attention network for accurate carotid artery segmentation</a></div>
+    <div class="author">Wen-Tao Wang, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, <strong>De-Xing Huang</strong>, Hao Li, Tian-Yu Xiang and Zeng-Guang Hou*</div>
+    <div class="periodical"><em>Proceedings of International Conference on Biomimetic, Intelligence and Robots<strong>(ICBIR)</strong>, Nov. 2023.</em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1877050923017957" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 
