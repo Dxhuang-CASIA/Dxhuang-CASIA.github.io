@@ -37,7 +37,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10381581">A noval two-stage framework for 2D/3D registration in neurological interventions</a></div>
     <div class="author"><strong>De-Xing Huang</strong>, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Jian-Long Hao, Zeng-Guang Hou*, Ning Ma, and Long Yan</div>
-    <div class="periodical"><em>Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics<strong>(ROBIO)</strong>, Dec. 2022.</em></div>
+    <div class="periodical"><em>Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics<strong>(ROBIO)</strong>, Jan. 2023.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10011812" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -80,7 +80,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10249496">Highly interpretable representation for multi-dimensional tactile perception</a></div>
     <div class="author">Mei-Jiang Gui, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Hao Li, Tian-Yu Xiang, <strong>De-Xing Huang</strong>, Bo-Xian Yao, and Zeng-Guang Hou*</div>
-    <div class="periodical"><em>Proceedings of the 2023 IEEE International Conference on Real-time Computing and Robotics<strong>(RCAR)</strong>, Jul. 2023.</em></div>
+    <div class="periodical"><em>Proceedings of the 2023 IEEE International Conference on Real-time Computing and Robotics<strong>(RCAR)</strong>, Sept. 2023.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10249496" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">(Best Paper Award)</i></strong>
