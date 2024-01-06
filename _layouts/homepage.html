@@ -53,9 +53,18 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
-        {% endif %}
+        {% if site.address %}
+      <a href="{{ site.address_link }}" rel="noopener" target="_blank">
+        <h4>{{ site.address }}</h4>
+      </a>
+      {% endif %}
+      {% if site.email %}
+      <a href="mailto: {{ site.email }}" style="color:#6d6d6d">
+        <email>
+          {{ site.email }}
+        </email>
+      </a>
+      {% endif %}
 
         <br>
         <br>
