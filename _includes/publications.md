@@ -70,5 +70,28 @@
   
 <br>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/RCAR2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE RCAR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10249496">Highly interpretable representation for multi-dimensional tactile perception</a></div>
+    <div class="author">Mei-Jiang Gui, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Hao Li, Tian-Yu Xiang, <strong>De-Xing Huang</strong>, Bo-Xian Yao, and Zeng-Guang Hou*</div>
+    <div class="periodical"><em>Proceedings of the 2023 IEEE International Conference on Real-time Computing and Robotics<strong>(RCAR)</strong>, Jul. 2023.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10249496" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">(Best Paper Award)</i></strong>
+    </div>
+  </div>
+
+</div>
+</li>
+  
+<br>
+
 </ol>
 </div>
