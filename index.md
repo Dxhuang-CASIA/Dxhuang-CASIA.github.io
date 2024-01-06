@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a second-year Ph.D. student at the Medical Robotics Lab, [State Key Laboratory of Multimodal Artificial Intelligence Systems](http://mais.ia.ac.cn/), [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), advised by Prof. [Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang) and Prof. [Xiao-Hu Zhou](https://people.ucas.edu.cn/~xhz). My research primarily focus on developing a intelligent navigation system for image-guided vascular interventions.
+I am currently a second-year Ph.D. student at the Medical Robotics Lab, [State Key Laboratory of Multimodal Artificial Intelligence Systems](http://mais.ia.ac.cn/), [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), advised by Prof. [Zeng-Guang Hou](https://people.ucas.ac.cn/~houzengguang) and Prof. [Xiao-Hu Zhou](https://people.ucas.edu.cn/~xhz). My research primarily focus on developing an intelligent navigation system for image-guided vascular interventions.
 
-
+Before that, I received my B.S. degree from 
 
 ## Research Interests
 
