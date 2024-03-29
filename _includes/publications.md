@@ -35,7 +35,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10381581">A noval two-stage framework for 2D/3D registration in neurological interventions</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10381581">A novel two-stage framework for 2D/3D registration in neurological interventions</a></div>
     <div class="author"><strong>De-Xing Huang</strong>, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Jian-Long Hao, Zeng-Guang Hou*, Ning Ma, and Long Yan</div>
     <div class="periodical"><em>Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics<strong>(ROBIO)</strong>, Jan. 2023.</em></div>
     <div class="links">
