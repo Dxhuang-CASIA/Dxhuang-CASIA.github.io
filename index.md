@@ -17,6 +17,7 @@ Before that, I received my B.S. degree from [the School of Electronic Engineerin
 ## News
 
 - **[May. 2024]** Grateful to be awarded as "excellent student leader" (优秀学生干部) of University of Chinese Academy of Sciences.
+- **[May. 2024]** I have been selected for the 4th Ph.D. Pilot Program (博士生实验班) of Institute of Automation, Chinese Academy of Sciences.
 - **[Dec. 2023]** One paper is accepted by **TASE**.
 - **[Oct. 2022]** One paper is accepted by **ROBIO 2022**.
 
@@ -25,6 +26,7 @@ Before that, I received my B.S. degree from [the School of Electronic Engineerin
 ## Awards
 
 - **Excellent Student Leader** of University of Chinese Academy of Sciences 2024
+- **The 4th Ph.D. Pilot Program (博士生实验班)** of Institute of Automation, Chinese Academy of Sciences 2024
 - **Outstanding Graduate** of Beijing University of Posts and Telecommunications 2022
 - **School First Class Scholarship** (<3%) in Beijing University of Posts and Telecommunications 2021
 - **School Second Class Scholarship** (<10%) in Beijing University of Posts and Telecommunications 2019, 2020
