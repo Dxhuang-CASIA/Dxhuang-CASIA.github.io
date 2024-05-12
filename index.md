@@ -16,7 +16,7 @@ Before that, I received my B.S. degree from [the School of Electronic Engineerin
 
 ## News
 
-- **[May. 2024]** Grateful to be awarded as "excellent student leader" (优秀学生干部) of University of Chinese Academy of Sciences.
+- **[May. 2024]** Grateful to be awarded as "Excellent Student Leader" (优秀学生干部) of University of Chinese Academy of Sciences.
 - **[May. 2024]** I have been selected for the 4th Ph.D. Pilot Program (博士生实验班) of Institute of Automation, Chinese Academy of Sciences.
 - **[Dec. 2023]** One paper is accepted by **TASE**.
 - **[Oct. 2022]** One paper is accepted by **ROBIO 2022**.
