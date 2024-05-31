@@ -70,6 +70,31 @@
 <br>
 
 <li>
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/T-MRB2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE TMRB</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10542446">Model-based offline reinforcement learning for autonomous delivery of guidewire</a></div>
+    <div class="author">Hao Li, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Mei-Jiang Gui, Tian-Yu Xiang, <strong>De-Xing Huang</strong>, and Zeng-Guang Hou*</div>
+    <div class="periodical"><em>IEEE Transactions on Medical Robotics and Bionics<strong>(TMRB)</strong>, May. 2024.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10542446" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">(IF:3.700)</i></strong>
+    </div>
+  </div>
+
+</div>
+</li>
+  
+<br>
+
+<li>
+
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
