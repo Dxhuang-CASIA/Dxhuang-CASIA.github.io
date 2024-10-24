@@ -17,7 +17,7 @@
     <div class="periodical"><em>IEEE Transactions on Automation Science and Engineering <strong>(TASE)</strong>, Jan. 2024.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10381581" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">(SCI, JCR: Q1, IF: 5.600)</i></strong>
+      <strong><i style="color:#7b5aa6">(SCI, JCR: Q1, IF: 5.900)</i></strong>
     </div>
   </div>
 
@@ -60,7 +60,7 @@
     <div class="periodical"><em>IEEE Transactions on Medical Robotics and Bionics<strong>(TMRB)</strong>, Jan. 2024.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10381648" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">(IF:3.700)</i></strong>
+      <strong><i style="color:#7b5aa6">(IF:3.400)</i></strong>
     </div>
   </div>
 
@@ -70,7 +70,6 @@
 <br>
 
 <li>
-
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -84,7 +83,7 @@
     <div class="periodical"><em>IEEE Transactions on Medical Robotics and Bionics<strong>(TMRB)</strong>, May. 2024.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10542446" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">(IF:3.700)</i></strong>
+      <strong><i style="color:#7b5aa6">(IF:3.400)</i></strong>
     </div>
   </div>
 
@@ -94,7 +93,6 @@
 <br>
 
 <li>
-
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -115,6 +113,28 @@
 </div>
 </li>
   
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/RCAR2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE IJCNN</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10650264">Cross-modal motor representation learning</a></div>
+    <div class="author">Tian-Yu Xiang, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Mei-Jiang Gui, Hao Li, <strong>De-Xing Huang</strong>, and Zeng-Guang Hou*</div>
+    <div class="periodical"><em>Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN)</strong>, Sept. 2023.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10650264" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+
+</div>
+</li>
+
 <br>
 
 <li>
