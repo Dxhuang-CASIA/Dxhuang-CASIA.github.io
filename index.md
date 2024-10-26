@@ -10,8 +10,8 @@ Before that, I received my B.S. degree from [the School of Electronic Engineerin
 
 ## Research Interests
 
-- **Medical Image Processing:** 2D/3D registration, image segmentation, landmark localization, point cloud analysis
-- **Machine Learning:** semi-supervised learning, contrastive learning
+- **Medical Image Processing:** registration, segmentation
+- **Computer Vision:** diffusion models
 - **Medical Robotics:** image-guided navigation systems
 
 ## News
