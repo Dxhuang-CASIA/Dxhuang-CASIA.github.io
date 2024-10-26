@@ -75,6 +75,29 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/T-ETCI2024.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE TETCI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10663067">Learning EEG motor characteristics via temporal-spatial representations</a></div>
+    <div class="author">Tian-Yu Xiang, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Hong-Jun Yang, Zhen-Qiu Feng, Mei-Jiang Gui, Hao Li, <strong>De-Xing Huang</strong>, Xiu-Ling Liu, and Zeng-Guang Hou*</div>
+    <div class="periodical"><em>IEEE Transactions on Emerging Topics in Computational Intelligence <strong>(TETCI)</strong>, Sept. 2024.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10663067" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">(SCI, JCR: Q1, IF:5.300)</i></strong>
+    </div>
+  </div>
+
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/T-MRB2023.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TMRB</abbr>
   </div>
