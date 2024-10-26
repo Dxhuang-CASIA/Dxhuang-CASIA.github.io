@@ -148,7 +148,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.ijcai.org/proceedings/2024/0507">MICRO: Model-based offline reinforcement learning with a conservative bellman operator</a></div>
     <div class="author">Xiao-Yin Liu, Xiao-Hu Zhou*, Guotao Li, Hao Li, Mei-Jiang Gui, Tian-Yu Xiang, <strong>De-Xing Huang</strong>, and Zeng-Guang Hou*</div>
-    <div class="periodical"><em>Proceedings of the 33-rd International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, Sept. 2024.</em></div>
+    <div class="periodical"><em>Proceedings of the 33-rd International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, Aug. 2024.</em></div>
     <div class="links">
       <a href="https://www.ijcai.org/proceedings/2024/0507" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
