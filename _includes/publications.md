@@ -30,16 +30,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ROBIO2022.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">IEEE ROBIO</abbr>
+    <img src="assets/img/SSCI2025.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE SSCI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10381581">A novel two-stage framework for 2D/3D registration in neurological interventions</a></div>
-    <div class="author"><strong>De-Xing Huang</strong>, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Jian-Long Hao, Zeng-Guang Hou*, Ning Ma, and Long Yan</div>
-    <div class="periodical"><em>Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics <strong>(ROBIO)</strong>, 2022.</em></div>
+    <div class="title"><a href="https://dxhuang-casia.github.io/">CAS-GAN for contrast-free angiography synthesis</a></div>
+    <div class="author"><strong>De-Xing Huang</strong>, Xiao-Hu Zhou*, Mei-Jiang Gui, Xiao-Liang Xie, Shi-Qi Liu, Shuang-Yi Wang, Hao Li, Tian-Yu Xiang, Zeng-Guang Hou*</div>
+    <div class="periodical"><em>Proceedings of the 2025 IEEE Symposium Series on Computational Intelligence <strong>(SSCI)</strong>, 2025.</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10011812" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2410.08490" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
     </div>
   </div>
 
@@ -52,16 +52,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/SSCI2025.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">IEEE SSCI</abbr>
+    <img src="assets/img/ROBIO2022.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE ROBIO</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://dxhuang-casia.github.io/">CAS-GAN for contrast-free angiography synthesis</a></div>
-    <div class="author"><strong>De-Xing Huang</strong>, Xiao-Hu Zhou*, Mei-Jiang Gui, Xiao-Liang Xie, Shi-Qi Liu, Shuang-Yi Wang, Hao Li, Tian-Yu Xiang, Zeng-Guang Hou*</div>
-    <div class="periodical"><em>Proceedings of the 2025 IEEE Symposium Series on Computational Intelligence <strong>(SSCI)</strong>, 2025.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10381581">A novel two-stage framework for 2D/3D registration in neurological interventions</a></div>
+    <div class="author"><strong>De-Xing Huang</strong>, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Jian-Long Hao, Zeng-Guang Hou*, Ning Ma, and Long Yan</div>
+    <div class="periodical"><em>Proceedings of the 2022 IEEE International Conference on Robotics and Biomimetics <strong>(ROBIO)</strong>, 2022.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2410.08490" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10011812" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 
@@ -233,6 +233,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ICBIR2024.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICBIR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1877050924032290">A learning-based acceleration framework for transient hemodynamic simulations</a></div>
+    <div class="author">Qin-Yi Zhang, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, Zhen-Qiu Feng, Mei-Jiang Gui, Hao Li, Tian-Yu Xiang, <strong>De-Xing Huang</strong>, and Zeng-Guang Hou*</div>
+    <div class="periodical"><em>Proceedings of the International Conference on Biomimetic Intelligence and Robots <strong>(ICBIR)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1877050924032290" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+
+</div>
+</li>
+  
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ACMMM2023.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ACM MM</abbr>
   </div>
@@ -284,7 +306,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1877050923017957">MEDIA-Net: Multi-scale feature extraction and depthwise attention network for accurate carotid artery segmentation</a></div>
     <div class="author">Wen-Tao Wang, Xiao-Hu Zhou*, Xiao-Liang Xie, Shi-Qi Liu, <strong>De-Xing Huang</strong>, Hao Li, Tian-Yu Xiang and Zeng-Guang Hou*</div>
-    <div class="periodical"><em>Proceedings of the International Conference on Biomimetic, Intelligence and Robots <strong>(ICBIR)</strong>, 2023.</em></div>
+    <div class="periodical"><em>Proceedings of the International Conference on Biomimetic Intelligence and Robots <strong>(ICBIR)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/pii/S1877050923017957" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
